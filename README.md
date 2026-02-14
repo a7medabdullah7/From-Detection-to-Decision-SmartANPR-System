@@ -1,17 +1,11 @@
+## 🚀 Features
+- Vehicle Detection (YOLOv8)
+- License Plate Recognition (OCR)
+- Multi-object Tracking
+- Speed Estimation
+- Real-time Video Processing
 
-# 🚗 SmartANPR Professional Project
+## ⚙️ Installation
 
-## Overview
-AI-based traffic monitoring system for vehicle detection, plate recognition, tracking, and speed estimation.
-
-## Run
-
-Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
-Run:
-
-python src/main.py --source assets/demo.mp4
-
-Note: Add your model weights inside the models/ folder.
